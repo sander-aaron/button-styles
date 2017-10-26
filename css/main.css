@@ -12,12 +12,32 @@ div {
   text-align: center;
 }
 
-.btn {
+a .btn {
   padding: .4em;
   border-radius: 8px;
   border-width: 3px;
 }
+
 .btn-primary {
   background-color: #333;
   color: #fff;
+  text-decoration: none;
  }
+
+.btn-subtle {
+  background-color: #ccc;
+  color: #fff;
+
+}
+
+.btn-ghost {
+  background-color: #fff;
+  border-color: #000;
+  color: #333;
+  text-decoration: none;
+}
+
+.btn-warning {
+  background-color: #f33;
+  color: #fff;
+}
