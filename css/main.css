@@ -11,3 +11,12 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+.btn {
+  padding: .4em;
+  border-radius: 8px;
+  border-width: 3px;
+}
+.btn-primary {
+   background-color: #333;
+ }
