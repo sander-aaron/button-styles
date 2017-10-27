@@ -18,6 +18,8 @@ div {
   padding: .4em;
   font-size: 1.125rem;
   border-radius: 8px;
+  text-decoration: none;
+  text-decoration: none;
 }
 
 .btn-small {
@@ -31,7 +33,6 @@ div {
 .btn-primary {
   background-color: #333;
   color: #fff;
-  text-decoration: none;
 }
 
 .btn-primary:hover {
@@ -41,7 +42,6 @@ div {
 .btn-subtle {
   background-color: #ccc;
   color: #fff;
-  text-decoration: none;
 }
 
 .btn-subtle:hover {
@@ -52,7 +52,6 @@ div {
   background-color: #fff;
   border: 3px solid #000;
   color: #333;
-  text-decoration: none;
 }
 
 .btn-ghost:hover {
@@ -63,7 +62,6 @@ div {
 .btn-warning {
   background-color: #f33;
   color: #fff;
-  text-decoration: none;
 }
 
 .btn-warning:hover {
