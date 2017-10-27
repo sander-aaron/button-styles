@@ -21,6 +21,18 @@ div {
   text-decoration: none;
 }
 
+.p {
+  padding: .4em;
+}
+
+.s {
+  padding: .75em;
+}
+
+.b {
+  padding: .3em;
+}
+
 .ghost {
   border: 3px solid #000;
 }
