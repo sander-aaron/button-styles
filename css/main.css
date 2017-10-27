@@ -14,21 +14,21 @@ div {
 }
 
 .btn {
-  display:inline-block;
+  display: inline-block;
   padding: .4em;
   font-size: 1.125rem;
   border-radius: 8px;
 }
 
 .btn-small {
-  display:inline-block;
+  display: inline-block;
   padding: .75em;
   font-size: .875rem;
   border-radius: 8px;
 }
 
 .btn-big {
-  display:inline-block;
+  display: inline-block;
   padding: .3em;
   font-size: 1.5rem;
   border-radius: 8px;
